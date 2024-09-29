@@ -22,10 +22,10 @@ CREATE TABLE person (
 );
 ```
 
-
 ```SHELL
 # 编译运行
 g++ *.cpp -o main -lmysqlclient -ljson
 ./main
 ```
 
+> 参考学习 [https://www.bilibili.com/video/BV1Fr4y1s7w4/?spm_id_from=333.999.0.0](https://www.bilibili.com/video/BV1Fr4y1s7w4/?spm_id_from=333.999.0.0)
